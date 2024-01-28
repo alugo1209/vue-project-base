@@ -1,0 +1,6 @@
+{
+  "hello": "Hola Mundo!",
+  "about": {
+    "message": "otro mensaje"
+  }
+}

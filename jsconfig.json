@@ -2,7 +2,8 @@
   "compilerOptions": {
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "types": ["@intlify/unplugin-vue-i18n/messages"]
   },
   "exclude": ["node_modules", "dist"]
 }
